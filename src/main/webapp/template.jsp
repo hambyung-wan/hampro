@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>메인 제목</h2>
+	탬플릿 내용추가
 </body>
 </html>
